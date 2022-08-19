@@ -1,0 +1,10 @@
+API URL https://onoutreach.com/api-product/incoming-webhook/enrich-company
+{
+	"api_key": "F9S9W9R7-Y5J0J2K0-T5X3E7T3-E4U9K6K4",
+	"domain" : "mydomaintoenrich.com"
+}
+API URLhttps://onoutreach.com/api-product/incoming-webhook/convert-company-names
+{
+	"api_key": "F9S9W9R7-Y5J0J2K0-T5X3E7T3-E4U9K6K4",
+	"company_name" : "mydomaintoenrich.com"
+}
